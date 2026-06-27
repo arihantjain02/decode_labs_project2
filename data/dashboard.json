@@ -1,0 +1,34 @@
+{
+  "readinessScore": 74,
+  "stats": {
+    "problemsSolved": 287,
+    "totalProblems": 600,
+    "interviewsDone": 12,
+    "resumeScore": 78,
+    "aptitudeScore": 82,
+    "streak": 14,
+    "rank": 342,
+    "totalUsers": 12847
+  },
+  "recentActivity": [
+    { "id": "1", "type": "dsa", "title": "Solved Two Sum (Easy)", "time": "2 hours ago" },
+    { "id": "2", "type": "interview", "title": "Mock Interview — Google SDE", "time": "5 hours ago" },
+    { "id": "3", "type": "aptitude", "title": "Quantitative Practice — 15/20", "time": "1 day ago" },
+    { "id": "4", "type": "resume", "title": "Resume analyzed — Score: 78", "time": "2 days ago" },
+    { "id": "5", "type": "dsa", "title": "Solved Merge Intervals (Medium)", "time": "2 days ago" }
+  ],
+  "upcomingInterviews": [
+    { "id": "1", "company": "Google", "role": "SDE Intern", "date": "2025-08-15", "type": "Technical" },
+    { "id": "2", "company": "Microsoft", "role": "SDE", "date": "2025-08-22", "type": "HR + Technical" },
+    { "id": "3", "company": "Amazon", "role": "SDE I", "date": "2025-09-01", "type": "Technical" }
+  ],
+  "weeklyChart": [
+    { "day": "Mon", "problems": 8, "hours": 3.5 },
+    { "day": "Tue", "problems": 12, "hours": 4.2 },
+    { "day": "Wed", "problems": 5, "hours": 2.1 },
+    { "day": "Thu", "problems": 15, "hours": 5.8 },
+    { "day": "Fri", "problems": 10, "hours": 3.9 },
+    { "day": "Sat", "problems": 18, "hours": 6.2 },
+    { "day": "Sun", "problems": 7, "hours": 2.8 }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "questions": {
+    "google": {
+      "easy": [
+        { "id": "g1", "title": "Two Sum", "description": "Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.", "tags": ["Array", "Hash Table"] },
+        { "id": "g2", "title": "Valid Parentheses", "description": "Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.", "tags": ["Stack", "String"] }
+      ],
+      "medium": [
+        { "id": "g3", "title": "LRU Cache", "description": "Design a data structure that follows the constraints of a Least Recently Used (LRU) cache.", "tags": ["Design", "Hash Table", "Linked List"] },
+        { "id": "g4", "title": "Word Break", "description": "Given a string s and a dictionary of strings wordDict, return true if s can be segmented into space-separated sequence of dictionary words.", "tags": ["DP", "Trie"] }
+      ],
+      "hard": [
+        { "id": "g5", "title": "Serialize and Deserialize Binary Tree", "description": "Design an algorithm to serialize and deserialize a binary tree.", "tags": ["Tree", "DFS", "BFS"] }
+      ]
+    },
+    "microsoft": {
+      "easy": [
+        { "id": "m1", "title": "Reverse Linked List", "description": "Given the head of a singly linked list, reverse the list, and return the reversed list.", "tags": ["Linked List"] }
+      ],
+      "medium": [
+        { "id": "m2", "title": "Binary Tree Level Order Traversal", "description": "Given the root of a binary tree, return the level order traversal of its nodes' values.", "tags": ["Tree", "BFS"] }
+      ],
+      "hard": [
+        { "id": "m3", "title": "Merge K Sorted Lists", "description": "Merge k sorted linked lists and return it as one sorted list.", "tags": ["Linked List", "Heap"] }
+      ]
+    },
+    "amazon": {
+      "easy": [
+        { "id": "a1", "title": "Best Time to Buy and Sell Stock", "description": "Find the maximum profit from buying and selling stock once.", "tags": ["Array", "Greedy"] }
+      ],
+      "medium": [
+        { "id": "a2", "title": "Number of Islands", "description": "Given a 2D grid map of '1's and '0's, count the number of islands.", "tags": ["Graph", "DFS", "BFS"] }
+      ],
+      "hard": [
+        { "id": "a3", "title": "Trapping Rain Water", "description": "Given n non-negative integers representing an elevation map, compute how much water it can trap after raining.", "tags": ["Array", "Two Pointers", "DP"] }
+      ]
+    },
+    "meta": {
+      "easy": [
+        { "id": "f1", "title": "Merge Two Sorted Lists", "description": "Merge two sorted linked lists and return it as a sorted list.", "tags": ["Linked List"] }
+      ],
+      "medium": [
+        { "id": "f2", "title": "Clone Graph", "description": "Given a reference of a node in a connected undirected graph, return a deep copy of the graph.", "tags": ["Graph", "DFS", "BFS"] }
+      ],
+      "hard": [
+        { "id": "f3", "title": "Alien Dictionary", "description": "Given a list of words sorted in alien language, find the order of characters.", "tags": ["Graph", "Topological Sort"] }
+      ]
+    }
+  },
+  "attempts": []
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "83388520-4a14-4957-84c9-955760354370",
+    "name": "Test User",
+    "email": "test@prep.com",
+    "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "college": "IIT Delhi",
+    "branch": "CSE",
+    "graduationYear": 2025,
+    "token": "c53e8fe9-e941-4df5-947a-9ee46d3476a7",
+    "createdAt": "2026-06-27T16:22:03.793Z"
+  },
+  {
+    "id": "2c19449f-567c-440f-a417-87273a828b6c",
+    "name": "arihant jain",
+    "email": "arihantjainmsp@gmail.com",
+    "passwordHash": "9cd67b0b23f9fb1661bb7d6c633b0f2bdcf538b585e22fad99ca1b72fc967786",
+    "college": "other",
+    "branch": "cs",
+    "graduationYear": 2025,
+    "token": "69f8f6c8-6806-4852-b335-bb18b060c09e",
+    "createdAt": "2026-06-27T16:24:24.717Z"
+  },
+  {
+    "id": "258d97ee-e2c8-4848-bb04-25df43effa49",
+    "name": "arihant jain",
+    "email": "arihant.jain.cse.2024@miet.ac.in",
+    "passwordHash": "af47fc29c4c797acf1cc339166f7d5dbde833361512512c6dbf2350a6ab0a844",
+    "college": "other",
+    "branch": "cs",
+    "graduationYear": 2025,
+    "token": "2b60a3bb-d02c-4d63-8898-96f9ff619bbf",
+    "createdAt": "2026-06-27T16:28:57.979Z"
+  }
+]

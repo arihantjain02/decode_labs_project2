@@ -1,0 +1,55 @@
+[
+  {
+    "id": "3539abf5-e214-43cc-9a24-f9e5d298b81d",
+    "targetCompany": "Google",
+    "currentLevel": "beginner",
+    "weeks": 4,
+    "milestones": [
+      {
+        "week": 1,
+        "title": "Foundation — Core DSA",
+        "tasks": [
+          "Arrays & Strings basics",
+          "Time/Space complexity",
+          "Basic sorting algorithms",
+          "Linear search & Binary search"
+        ],
+        "completed": false
+      },
+      {
+        "week": 2,
+        "title": "Week 2 — Intermediate — Trees & Graphs",
+        "tasks": [
+          "Binary trees and BST",
+          "Graph traversal (BFS, DFS)",
+          "Shortest path algorithms",
+          "Practice 15 medium problems"
+        ],
+        "completed": false
+      },
+      {
+        "week": 3,
+        "title": "Week 3 — Google-Specific Prep",
+        "tasks": [
+          "Study Google interview patterns",
+          "Mock interviews with time constraints",
+          "Review company-specific LeetCode list",
+          "Behavioral question prep (STAR method)"
+        ],
+        "completed": false
+      },
+      {
+        "week": 4,
+        "title": "Final Sprint & Review",
+        "tasks": [
+          "Full mock interviews (90 min sessions)",
+          "Identify and fix weak areas",
+          "Review all previous problems",
+          "System design practice for senior roles"
+        ],
+        "completed": false
+      }
+    ],
+    "createdAt": "2026-06-27T16:23:08.158Z"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "google",
+    "name": "Google",
+    "logo": "SiGoogle",
+    "package": "45 LPA",
+    "difficulty": "Very Hard",
+    "openRoles": ["SWE", "SRE", "PM"],
+    "rounds": ["Online Assessment", "Technical Round 1", "Technical Round 2", "Googleyness Round", "Team Match"],
+    "topics": ["Arrays", "Dynamic Programming", "Graphs", "System Design", "LLD"],
+    "tips": ["Focus on data structures and algorithms", "Practice Google-specific LeetCode problems", "Communicate your thought process clearly", "Study system design for senior roles"]
+  },
+  {
+    "id": "microsoft",
+    "name": "Microsoft",
+    "logo": "SiMicrosoft",
+    "package": "40 LPA",
+    "difficulty": "Hard",
+    "openRoles": ["SDE", "Cloud Engineer", "PM"],
+    "rounds": ["Online Assessment", "Technical Round 1", "Technical Round 2", "Hiring Manager Round"],
+    "topics": ["Trees", "Graphs", "OOP", "System Design", "Behavioral"],
+    "tips": ["Strong OOP knowledge required", "Focus on problem-solving approach", "Prepare STAR method for behavioral", "Practice Azure cloud basics"]
+  },
+  {
+    "id": "amazon",
+    "name": "Amazon",
+    "logo": "SiAmazon",
+    "package": "35 LPA",
+    "difficulty": "Hard",
+    "openRoles": ["SDE I", "SDE II", "DevOps", "Data Engineer"],
+    "rounds": ["Online Assessment", "Technical Round 1", "Technical Round 2", "Bar Raiser Round"],
+    "topics": ["Arrays", "Trees", "Graphs", "LLD", "Leadership Principles"],
+    "tips": ["Master Amazon's 16 Leadership Principles", "Every answer should follow STAR format", "Focus on scalable system design", "Practice array and tree problems"]
+  },
+  {
+    "id": "meta",
+    "name": "Meta",
+    "logo": "SiMeta",
+    "package": "50 LPA",
+    "difficulty": "Very Hard",
+    "openRoles": ["Production Engineer", "SWE", "ML Engineer"],
+    "rounds": ["Recruiter Screen", "Technical Phone Screen", "Onsite 1", "Onsite 2", "Onsite 3"],
+    "topics": ["Arrays", "Strings", "Graphs", "Dynamic Programming", "System Design"],
+    "tips": ["Speed and accuracy matter equally", "Practice coding in real-time under pressure", "Strong graph and DP foundation needed", "Understand distributed systems"]
+  },
+  {
+    "id": "apple",
+    "name": "Apple",
+    "logo": "SiApple",
+    "package": "42 LPA",
+    "difficulty": "Very Hard",
+    "openRoles": ["iOS Engineer", "ML Engineer", "SWE"],
+    "rounds": ["HR Screen", "Technical Screen", "Onsite (multiple rounds)"],
+    "topics": ["Algorithms", "Data Structures", "iOS SDK", "System Design", "Optimization"],
+    "tips": ["Deep knowledge of algorithms required", "iOS experience is a plus", "Be prepared for open-ended design questions", "Attention to detail is critical"]
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "logo": "SiNetflix",
+    "package": "60 LPA",
+    "difficulty": "Very Hard",
+    "openRoles": ["Senior SWE", "Platform Engineer", "Data Engineer"],
+    "rounds": ["Recruiter Screen", "Hiring Manager Screen", "Technical Loop (4-5 rounds)"],
+    "topics": ["Distributed Systems", "Streaming", "Algorithms", "System Design", "Microservices"],
+    "tips": ["Senior-level expectations even for entry roles", "Deep system design knowledge mandatory", "Netflix culture fit is heavily evaluated", "Understand video streaming infrastructure"]
+  },
+  {
+    "id": "flipkart",
+    "name": "Flipkart",
+    "logo": "SiFlipkart",
+    "package": "28 LPA",
+    "difficulty": "Hard",
+    "openRoles": ["SDE I", "SDE II", "DevOps"],
+    "rounds": ["Online Assessment", "Technical Round 1", "Technical Round 2", "HR Round"],
+    "topics": ["Arrays", "Trees", "Graphs", "LLD", "SQL"],
+    "tips": ["Strong DSA fundamentals required", "LLD questions are common", "SQL knowledge is tested", "Practice e-commerce system design"]
+  },
+  {
+    "id": "infosys",
+    "name": "Infosys",
+    "logo": "SiInfosys",
+    "package": "8 LPA",
+    "difficulty": "Medium",
+    "openRoles": ["System Engineer", "Technology Analyst", "Digital Specialist"],
+    "rounds": ["InfyTQ Exam", "Technical Interview", "HR Interview"],
+    "topics": ["Basic DSA", "SQL", "OOP Concepts", "Java/Python Basics"],
+    "tips": ["Clear InfyTQ certification first", "Focus on OOP concepts", "Basic SQL is mandatory", "Communication skills matter a lot"]
+  }
+]
